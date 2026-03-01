@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Sneha Jaswani
 
-<!--
-**jaswanisneha0-max/jaswanisneha0-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 TYBCA Student from Rajkot, India  
+💻 Passionate Web Developer  
+🌱 Currently Learning MERN Stack  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- HTML, CSS, JavaScript
+- PHP & MySQL
+- ASP.NET (C#)
+- Python
+- React (Learning)
+- MERN Stack (Learning)
+---
+
+## 📌 Projects
+
+- Student Management System
+- Online Auction System
+- Face Detection using Python
+- AI Travel Website
+- TastyBites with web development
+- Self Portfolio website with React + Tailwind CSS
+- RR MACHINERY (Product Management System)
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: (Add your link here)
+- Email: (your email)
+
+---
+
+⭐ Thank you for visiting my profile!
