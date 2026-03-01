@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=TYBCA+Student;Web+Developer;MERN+Stack+Learner;Future+Software+Engineer&center=true&width=500&height=45">
+</p>
 # Hi 👋, I'm Sneha Jaswani
 
 🎓 TYBCA Student from Rajkot, India  
