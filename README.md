@@ -9,19 +9,13 @@
 
 ---
 
-## 🚀 Skills
+
 ## 🚀 Skills & Tools
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,react,nodejs,mongodb,c,cpp" />
 </p>
-- HTML, CSS, JavaScript
-- PHP & MySQL
-- ASP.NET (C#)
-- Python
-- React (Learning)
-- MERN Stack (Learning)
----
+
 
 ## 📌 Projects
 
