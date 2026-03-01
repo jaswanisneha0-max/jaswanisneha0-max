@@ -36,3 +36,9 @@
 ---
 
 ⭐ Thank you for visiting my profile!
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaswanisneha0-max&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaswanisneha0-max&theme=tokyonight" />
+</p>
