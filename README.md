@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Sneha%20Jaswani&fontSize=40&fontColor=ffffff" />
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=TYBCA+Student;Web+Developer;MERN+Stack+Learner;Future+Software+Engineer&center=true&width=500&height=45">
 </p>
 # Hi 👋, I'm Sneha Jaswani
