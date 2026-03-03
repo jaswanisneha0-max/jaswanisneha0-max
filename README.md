@@ -24,7 +24,7 @@
 
 - Student Management System
 - Online Auction System
-- Face Detection using Python
+- concert management system
 - AI Travel Website
 - TastyBites with web development
 - Self Portfolio website with React + Tailwind CSS
