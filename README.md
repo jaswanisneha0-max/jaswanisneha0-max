@@ -34,7 +34,7 @@
 ## 📫 Connect With Me
 
 - LinkedIn: (Add your link here)
-- Email: (your email)
+- Email: jaswanisneha0@gmail.com
 
 ---
 
