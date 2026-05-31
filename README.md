@@ -6,7 +6,7 @@
 </p>
 # Hi 👋, I'm Sneha Jaswani
 
-🎓 TYBCA Student from Rajkot, India  
+🎓 BCA Graduate from Rajkot, India  
 💻 Passionate Web Developer  
 🌱 Currently Learning MERN Stack  
 
